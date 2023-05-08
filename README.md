@@ -26,10 +26,10 @@
 ## 수업시간 
 https://kebab000.github.io/web2023/
 
-<br><br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebab000&layout=compact)](https://github.com/kebab000/github-readme-stats)
-<br><br>
-<br><br>
+<br>
+<br>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=kebab000&theme=vue&show_icons=true"/></a>
 </p>
