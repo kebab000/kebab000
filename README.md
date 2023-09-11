@@ -42,9 +42,6 @@ Vue.js 사이트 : Portflio
 <a href="https://github.com/YeoDaShttps://github.com/kebab000/site2023-vue" target="_blank">✨깃허브</a> 
 <a href="https://2023portfoliosite-vue.netlify.app/"  target="_blank">✨사이트</a>
 
-Next.js 사이트 : Portflio
-<a href="https://github.com/kebab000/site2023-next" target="_blank">✨깃허브</a>
-
 Next.js 사이트 : Car Showcase
 <a href="https://github.com/kebab000/car_showcase" target="_blank">✨깃허브</a> 
 <a href="https://kebab-car-showcase.netlify.app/"  target="_blank">✨사이트</a>
