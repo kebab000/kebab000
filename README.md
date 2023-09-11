@@ -32,7 +32,7 @@ PHP 팀프로젝트 : PLANTY
 <a href="https://kebab00-mrpizza.netlify.app/"  target="_blank">✨사이트</a>
 <br><br>
 
-## React Portfolio
+## Portfolio
 
 React 사이트 : Portflio
 <a href="https://github.com/kebab000/site2023-react" target="_blank">✨깃허브</a>
