@@ -10,7 +10,7 @@
 
 작업물들을 모아놓은 포트폴리오입니다. 
 <a href="https://github.com/kebab000/2023-portfolio" target="_blank">✨깃허브</a>
-<a href="https://kebab00-portfolio2023.netlify.app/"  target="_blank">✨사이트</a>
+<a href="https://kebab00.com/"  target="_blank">✨사이트</a>
 <br><br>
 
 ## Site Portfolio 
